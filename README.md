@@ -1,2 +1,2 @@
 # gitlab-import-issue
-Testing GitLab importing issues
+This repository is for testing GitLab import issues
